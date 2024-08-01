@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+  }
+  
+  h1, h2, h3, p {
+    color: #ffffff;
+  }
+  
+  /* HEADER */
+  header {
+    text-align: center;
+  }
+  
+  .header {
+    font-size: 50px;
+    font-weight: 500;
+    margin: 0;
+    padding: 20px 0;
+  }
+  
+  .hero-image img {
+    width: 100%;
+  }
+  
+  /* SECCION DESCRIPCION */
+  .desc-section {
+    background-color: #000000;
+    padding: 45px 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .desc-text {
+    display: inline-block;
+    width: 55%;
+    padding-right: 20px;
+    text-align: left;
+    vertical-align: top;
+  }
+  
+  .desc-image {
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+  }
+  
+  .desc-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* SECCION ICONOS */
+  .icons-section {
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .icons-section h2 {
+    font-weight: 500;
+    font-size: 40px;
+    margin-bottom: 1em;
+  }
+  
+  .icons {
+    display: inline-block;
+    width: 28%;
+    margin: 10px 1%;
+    vertical-align: top;
+  }
+  
+  .icons h3 {
+    font-size: 25px;
+    font-weight: 300;
+  }
+  
+  .icons i {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  /* SECCION IMAGENES */
+  .img-section {
+    text-align: center;
+    padding: 75px 0;
+  }
+  
+  .img-section .container {
+    display: inline-block;
+  }
+  
+  .image {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: 202px;
+  }
+  
+  /* FOOTER */
+  .footer {
+    font-weight: 300;
+    font-size: 20px;
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: white;
+  }
+  
